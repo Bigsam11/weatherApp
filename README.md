@@ -1,4 +1,5 @@
-![Screenshot (5)](https://user-images.githubusercontent.com/29108374/131598904-05b135fa-76c6-49bc-92fe-8ff2f1b15ae6.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/29108374/131599017-6e6a62ec-9180-444e-a30e-302d23076acd.png)
+
 # Global accelerex: Creating a Weather App
 
 This is a test project for global accelerex using openweather api
